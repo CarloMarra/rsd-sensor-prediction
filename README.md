@@ -3,6 +3,7 @@
 This project tackles the problem of predicting the position of a particle passing through an RSD (Resistive Silicon Detector) sensor. The goal is to predict the (x, y) coordinates of the particle's passage using machine learning models applied to sensor data.
 
 Full report available [here](https://github.com/CarloMarra/rsd-sensor-prediction/blob/main/Report.pdf)
+
 Code available [here](https://github.com/CarloMarra/rsd-sensor-prediction/blob/main/Regression_Task.ipynb)
 
 Authors
