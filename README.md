@@ -8,7 +8,7 @@ Code available [here](https://github.com/CarloMarra/rsd-sensor-prediction/blob/m
 
 Authors
 
-- Francesca Geusa (ToDo)
+- Francesca Geusa ([geusa.francesca@gmail.com](geusa.francesca@gmail.com))
 - Carlo Marra ([marra.carlo@outlook.com](marra.carlo@outlook.com))
 
 ## Problem Overview
